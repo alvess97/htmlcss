@@ -1,0 +1,51 @@
+body {
+
+font-family: sans-serif;
+line-height: normal;
+color: black]
+margin:auto;
+background-color: #CFCFCF;
+}
+
+.Verde{
+
+  font-family: arial;
+  font-size: 14px;
+  padding: 2px;
+  cursor: pointer;
+  background: green;
+  border: none;
+  color: #fff;
+}
+
+.Branco{
+  font-family: arial;
+  font-size: 14px;
+  padding: 2px;
+  cursor: pointer;
+  background: white;
+  border: none;
+  color: #000000;
+}
+
+.Vermelho{
+  font-family: arial;
+  font-size: 14px;
+  padding: 2px;
+  cursor: pointer;
+  background: #FF0000;
+  border: none;
+  color: black;
+}
+
+.botao{
+  color: white;
+  background: green;
+  border: none;
+}
+main{
+  background: #00000054;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
